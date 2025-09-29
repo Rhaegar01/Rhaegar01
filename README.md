@@ -1,4 +1,4 @@
-<img src="images/anime-boy.png" alt="Anime Boy Avatar" style="width: 150px; height: 150px; border-radius: 50%; display: block; margin: 0 auto;">
+<p align="center"><img src="images/anime-boy.png" alt="Anime Boy Avatar" style="width: 150px; height: 150px; border-radius: 50%; display: block; margin: 0 auto;">
 
 <h1 align="center">Rhaegar</h1>
 
